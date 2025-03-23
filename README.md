@@ -22,7 +22,7 @@
 - 🛒 [ShopNow - Tienda en línea Full Stack](https://github.com/manuelroma777/capstone_project)  
   _React + Flask + MySQL | Autenticación JWT | Carrito de compras_
 
-- 📚 [Blog App Full Stack](https://github.com/manuelroma777/NombreDelRepo)  
+- 📚 [React Portfolio App](https://github.com/manuelroma777/luis-roma-react-portfolio/tree/main)  
   _Blog personal con CRUD, Infinite Scroll, React Modal y backend en Flask_
 
 - 🔗 [Acortador de enlaces con Redis](https://github.com/manuelroma777/redis-project)  
