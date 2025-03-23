@@ -28,7 +28,6 @@
 - 🔗 [Acortador de enlaces con Redis](https://github.com/manuelroma777/NombreDelRepo)  
   _Node.js + Redis | HTML + SCSS + JavaScript_
 
-> *(Puedes añadir más proyectos según vayas creando o mejorando repos)*
 
 ---
 
@@ -41,6 +40,7 @@
 - **Bachiller en Computación** – Guatemala  
 - **ESO** – Guatemala  
 - **Photoshop para Principiantes (2015)** – Guatemala
+- 
 
 ---
 
