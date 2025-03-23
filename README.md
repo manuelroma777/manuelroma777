@@ -1,7 +1,7 @@
 # 👋 Hola, soy Luis Manuel Vásquez Roma
 
 🎓 Bachiller en Computación  
-💻 Desarrollador Full Stack formado por Bottega University (USA), Fundación VASS y Lanbide (España)  https://www.bottega.tech/
+💻 Desarrollador Full Stack formado por Bottega University (USA), Fundación VASS y Lanbide (España)  https://www.bottega.tech
 📍 Zarautz, Guipuzkoa, España  
 📧 manuelroma333@hotmail.es | 📱 +34 674 828 470
 
