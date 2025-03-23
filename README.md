@@ -19,13 +19,13 @@
 
 ### 📂 Proyectos destacados
 
-- 🛒 [ShopNow - Tienda en línea Full Stack](https://github.com/manuelroma777/ShopNow)  
+- 🛒 [ShopNow - Tienda en línea Full Stack](https://github.com/manuelroma777/capstone_project)  
   _React + Flask + MySQL | Autenticación JWT | Carrito de compras_
 
 - 📚 [Blog App Full Stack](https://github.com/manuelroma777/NombreDelRepo)  
   _Blog personal con CRUD, Infinite Scroll, React Modal y backend en Flask_
 
-- 🔗 [Acortador de enlaces con Redis](https://github.com/manuelroma777/NombreDelRepo)  
+- 🔗 [Acortador de enlaces con Redis](https://github.com/manuelroma777/redis-project)  
   _Node.js + Redis | HTML + SCSS + JavaScript_
 
 > *(Puedes añadir más proyectos según vayas creando o mejorando repos)*
