@@ -33,6 +33,10 @@
 
 ### 📚 Formación Académica
 
+- **Curso ChatGPT para usuarios: de cero a experto**  
+  Campus Virtual de AEG – www.aeg.eus  
+  🗓 Finalizado en febrero de 2025 (1 mes)  
+
 - **Full Stack Developer (2024)**  
   Bottega University (USA) | Fundación VASS | Lanbide  
   _(HTML, CSS, JS, React, Python, Flask, Bases de Datos, APIs, Git, DevOps básico)_
@@ -40,7 +44,6 @@
 - **Bachiller en Computación** – Guatemala  
 - **ESO** – Guatemala  
 - **Photoshop para Principiantes (2015)** – Guatemala
-- 
 
 ---
 
