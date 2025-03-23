@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning JavaScript, Python.
 - 💞️ I’m looking to collaborate on any project can be possible
 - 📫 How to reach me technolovernow@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 manuelroma777/manuelroma777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
