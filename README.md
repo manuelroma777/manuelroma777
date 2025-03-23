@@ -2,7 +2,6 @@
 
 🎓 Bachiller en Computación  
 💻 Desarrollador Full Stack formado por Bottega University (USA), Fundación VASS y Lanbide (España)  
-https://www.bottega.tech
 📍 Zarautz, Guipuzkoa, España  
 📧 manuelroma333@hotmail.es | 📱 +34 674 828 470
 
@@ -29,6 +28,7 @@ https://www.bottega.tech
 - 🔗 [Acortador de enlaces con Redis](https://github.com/manuelroma777/NombreDelRepo)  
   _Node.js + Redis | HTML + SCSS + JavaScript_
 
+> *(Puedes añadir más proyectos según vayas creando o mejorando repos)*
 
 ---
 
@@ -39,12 +39,20 @@ https://www.bottega.tech
   🗓 Finalizado en febrero de 2025 (1 mes)  
 
 - **Full Stack Developer (2024)**  
-  Bottega University (USA) | Fundación VASS | Lanbide  
+  Bottega University (USA) | Fundación VASS | Lanbide  https://www.bottega.tech/
   _(HTML, CSS, JS, React, Python, Flask, Bases de Datos, APIs, Git, DevOps básico)_
 
 - **Bachiller en Computación** – Guatemala  
 - **ESO** – Guatemala  
 - **Photoshop para Principiantes (2015)** – Guatemala
+
+---
+
+### 🌍 Idiomas
+
+- **Castellano:** Nativo  
+- **Inglés:** Básico principiante  
+- **Italiano:** Básico principiante
 
 ---
 
@@ -59,6 +67,7 @@ Apasionado por la tecnología y el desarrollo web, siempre en búsqueda de nuevo
 - Email: manuelroma333@hotmail.es  
 - Teléfono: +34 674 828 470  
 - Ubicación: Zarautz, Guipuzkoa – España  
+
 
 
 
