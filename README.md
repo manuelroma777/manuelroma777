@@ -3,7 +3,7 @@
 🎓 Bachiller en Computación  
 💻 Desarrollador Full Stack formado por Bottega University (USA), Fundación VASS y Lanbide (España)  
 📍 Zarautz, Guipuzkoa, España  
-📧 manuelroma333@hotmail.es | 📱 +34 674 828 470
+📧 manuelroma777@hotmail.es | 📱 +34 674 828 470
 
 ---
 
@@ -42,8 +42,7 @@
   _(HTML, CSS, JS, React, Python, Flask, Bases de Datos, APIs, Git, DevOps básico)_
 
 - **Bachiller en Computación** – Guatemala  
-- **ESO** – Guatemala  
-- **Photoshop para Principiantes (2015)** – Guatemala
+- **Photoshop para Principiantes ** – Guatemala
 
 ---
 
@@ -57,7 +56,7 @@
 
 ### 💬 Sobre mí
 
-Apasionado por la tecnología y el desarrollo web, siempre en búsqueda de nuevos retos y aprendizajes. Mi objetivo es colaborar en proyectos reales, seguir creciendo como desarrollador y aportar soluciones funcionales y eficientes.
+Apasionado por la tecnología y el desarrollo web, siempre en búsqueda de nuevos retos. Mi objetivo es colaborar en proyectos reales, seguir creciendo como desarrollador y aportar soluciones funcionales y eficientes.
 
 ---
 
