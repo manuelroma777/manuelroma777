@@ -28,7 +28,6 @@
 - 🔗 [Acortador de enlaces con Redis](https://github.com/manuelroma777/redis-project)  
   _Node.js + Redis | HTML + SCSS + JavaScript_
 
-> *(Puedes añadir más proyectos según vayas creando o mejorando repos)*
 
 ---
 
