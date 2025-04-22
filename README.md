@@ -62,7 +62,7 @@ Apasionado por la tecnología y el desarrollo web, siempre en búsqueda de nuevo
 
 ### 📫 Contacto
 
-- Email: manuelroma333@hotmail.es  
+- Email: manuelroma777@hotmail.es  
 - Teléfono: +34 674 828 470  
 - Ubicación: Zarautz, Guipuzkoa – España  
 
